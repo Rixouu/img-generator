@@ -1,0 +1,7 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/generate/replicate/route": "app/api/generate/replicate/route.js",
+  "/api/generate/route": "app/api/generate/route.js",
+  "/flux/page": "app/flux/page.js",
+  "/generate/page": "app/generate/page.js"
+}
